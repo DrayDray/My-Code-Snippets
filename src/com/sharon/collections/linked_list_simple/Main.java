@@ -4,9 +4,9 @@ import java.util.LinkedList;
 
 import javax.swing.JOptionPane;
 
-import com.sharon.collections.linked_list.Node;
+import com.sharon.collections.linked_list_simple.Node;
 
-//Creating and printing a LinkedList using our Node
+//Basic creation and printing of our own LinkedList (without Java's built in LinkedList class)
 public class Main {
 
 	public static void main(String[] args) {
